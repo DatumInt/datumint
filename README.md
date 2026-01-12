@@ -102,8 +102,8 @@ The scope is intentionally narrow while we validate:
 - how inspection results should be presented
 
 Roadmap and progress:
-- `ROADMAP.md`
-- GitHub Issues
+- [ROADMAP.md](ROADMAP.md)
+- [GitHub Issues](https://github.com/DatumInt/datumint/issues)
 
 ---
 
