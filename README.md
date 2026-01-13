@@ -115,4 +115,4 @@ If this problem space resonates with you:
 - Share feedback through issues
 - Follow along as the project evolves
 
-This project is exploratory by design — feedback matters more than polish at this stage.
+This project is exploratory by design, feedback matters more than polish at this stage.
